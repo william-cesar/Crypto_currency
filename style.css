@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#coins {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.media {
+  margin: 10px 10px 10px 0;
+  padding: 5px;
+  height: 150px;
+  border: 1px solid #eaeaea;
+  background-color: #ecf8ff;
+}
+
+.container {
+  margin: auto 0;
+  padding: 3px !important;
+}
+
+i {
+  margin: 5px;
+}
